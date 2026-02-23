@@ -26,15 +26,6 @@ Software Engineer with experience since 2018. Started as a QA, which gave me a d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virtualghost4&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualghost4&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
-
 ## 🧭 What I Do
 
 - ⚙️ **Backend development** with Java, Spring Boot, Laravel, and Node.js
