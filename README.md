@@ -13,7 +13,7 @@
 
 ---
 
-## 💬 TL;DR
+## 💬 
 Software Engineer with experience since 2018. Started as a QA, which gave me a deep understanding of software quality and robustness, and now I build scalable full-stack solutions. Specialized in **Java with Spring Boot** for backend, **React** for frontend, and deployments on **GCP**. I've worked on recommendation systems, high-volume reporting, database design, and custom advertising solutions — always balancing technical efficiency with client-focused usability.
 
 ---
