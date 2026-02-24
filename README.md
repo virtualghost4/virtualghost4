@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ale Arias</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Ex-QA | Java & Spring Boot Specialist</b><br>
-  <i>Building scalable, efficient solutions with a strong focus on user experience and code quality</i>
+  <b>Full Stack Developer | Java • Spring Boot • React • GCP</b><br>
+  <i>8+ years building scalable systems with a quality-first mindset</i>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ---
 
-## 💬 
-Software Engineer with experience since 2018. Started as a QA, which gave me a deep understanding of software quality and robustness, and now I build scalable full-stack solutions. Specialized in **Java with Spring Boot** for backend, **React** for frontend, and deployments on **GCP**. I've worked on recommendation systems, high-volume reporting, database design, and custom advertising solutions — always balancing technical efficiency with client-focused usability.
+## 💬 TL;DR
+Software Engineer with **8+ years of experience**, originally starting in QA — a background that built a strong **quality-first mindset**. I design and build scalable **backend services** (Java, Spring Boot, Node.js), modern **frontends** (React, Flutter), and **cloud-native systems** on GCP. My work includes **recommendation engines**, **high-throughput reporting**, **data modeling**, and custom advertising platforms. I actively use **AI-assisted development workflows** to deliver high-quality code faster, without compromising clean architecture or reliability.
 
 ---
 
@@ -26,52 +26,60 @@ Software Engineer with experience since 2018. Started as a QA, which gave me a d
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=virtualghost4&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualghost4&layout=compact&langs_count=7&theme=default"/>
+</div>
+
+---
+
 ## 🧭 What I Do
 
-- ⚙️ **Backend development** with Java, Spring Boot, Laravel, and Node.js
-- 🎨 **Frontend & mobile** with React, jQuery, and Flutter
-- 🗄️ **Database design** (MySQL, MongoDB) focused on performance and scalability
-- ☁️ **Cloud deployments** on GCP with CI/CD automation (Jenkins)
-- 📊 **Reporting & recommendation systems** using BigQuery and large-scale data
-- 🧪 **Quality-first mindset** — thanks to my QA background
+- ⚙️ **Backend:** Java • Spring Boot • Node.js • Laravel • Go
+- 🎨 **Frontend & Mobile:** React • Flutter • TypeScript • jQuery
+- 🗄️ **Data:** MySQL • MongoDB • BigQuery • High-volume reporting
+- ☁️ **Cloud & DevOps:** GCP • Docker • Jenkins • CI/CD • Kubernetes
+- 🤖 **AI-Augmented Development:** Delivering faster without cutting corners
 
 ---
 
 ## 🏆 Featured Experience
 
-| 🧩 Project | 💡 Description | 🛠️ Tech Stack |
-|-----------|----------------|---------|
-| **DMP Recommender @ Mercado Libre** | Audience recommendation system for internal teams, based on campaign insights. | Java, Spring Boot, BigQuery, GCP |
-| **DMP Reports @ Mercado Libre** | Campaign performance reports processing large volumes of data from BigQuery. | Java, React, BigQuery, GCP, Jenkins |
-| **Audience Backoffice @ Mercado Libre** | Internal tool for audience management, improving team workflow and efficiency. | React, TypeScript, REST APIs |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **DMP Recommender @ Mercado Libre** | Audience recommendation engine using campaign insights | Java, Spring Boot, BigQuery, GCP |
+| **DMP Reports @ Mercado Libre** | High-performance campaign reporting at scale | Java, React, BigQuery, GCP, Jenkins |
+| **Audience Backoffice @ Mercado Libre** | Internal tool for audience management | React, TypeScript, REST APIs |
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Studied at **Universidad del Bío-Bío**, Chile
-- 🔍 Started my career as a **QA in 2018** — I bring a tester's eye to everything I build
-- 🧠 Passionate about designing **efficient, scalable solutions** across the stack
-- 🗣️ Fluent in **Spanish and English** for technical conversations
-- 📸 **Photographer** — I love capturing landscapes and details
-- 🏍️ **Adventure motorcyclist** — both on the road and in code
-- 🛠️ In my free time, I collaborate with **Calota Moto Store** ([calota.cl](https://calota.cl)) supporting their online shop
+- 🎓 **CS Graduate** — Universidad del Bío-Bío, Chile
+- 🔍 **Ex-QA (2018)** — I bring a tester's eye to everything I build
+- 🧠 Passionate about **efficient, scalable design** across the stack
+- 🗣️ **English:** Conversational — I can handle technical discussions and express myself clearly (self-taught)
+- 📸 **Photographer** — Covered the **Raid Adventure Hupil 2025**, capturing riders and race action
+- 🎥 **Videographer & Editor** — Create content for **Calota Moto Store** ([calota.cl](https://calota.cl))
+- 🏍️ **Adventure motorcyclist** — I document my trips on [@theoverlandersdiary](https://instagram.com/theoverlandersdiary)
 
 ---
 
-## 📜 Methodologies & Tools
+## 🛠️ Methodologies & Tools
 
-- ✅ Agile methodologies: **Scrum, Jira**
-- ✅ Version control: **Git, GitHub**
-- ✅ CI/CD: **Jenkins, GCP**
-- ✅ Quality & testing: Deep understanding from my QA experience
+- ✅ **Agile:** Scrum • Jira
+- ✅ **Version Control:** Git • GitHub
+- ✅ **CI/CD:** Jenkins • GCP
+- ✅ **Quality:** Testing mindset from day one
 
 ---
 
 ## 🤝 Let's Connect
 
-Looking for someone who understands the full software lifecycle — from quality assurance to cloud deployment?  
-Want to talk about Java, React, motorcycles, or photography? Let's connect!
+Looking for a full-stack engineer who understands **quality, scalability, and cloud**?  
+Want to talk **Java, React, GCP, motorcycles, or adventure photography**? Check out [@theoverlandersdiary](https://instagram.com/theoverlandersdiary) and let's connect!
 
 - 📧 **[mn.ale.arias@gmail.com](mailto:mn.ale.arias@gmail.com)**
 - 🔗 **[linkedin.com/in/ale-arias](https://www.linkedin.com/in/ale-arias/)**
